@@ -1,4 +1,4 @@
-package com.ke.acecandy.desensitize.impl;
+package io.github.acecandy.desensitize.impl;
 
 /**
  * 脱敏注解枚举

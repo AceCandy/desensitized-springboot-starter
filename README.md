@@ -10,9 +10,10 @@
 </dependency>
 ```
 ##### 二、对象字段上加入脱敏注解
+
 ```java
-import static com.ke.acecandy.desensitize.impl.DesensitizeEnum.*;
-import com.ke.acecandy.desensitize.autoconfig.Desensitize;
+
+import io.github.acecandy.desensitize.autoconfig.Desensitize;
 
 @Data
 public class User {

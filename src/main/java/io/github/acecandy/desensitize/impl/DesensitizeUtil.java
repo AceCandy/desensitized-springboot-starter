@@ -1,4 +1,4 @@
-package com.ke.acecandy.desensitize.impl;
+package io.github.acecandy.desensitize.impl;
 
 import cn.hutool.core.util.CharUtil;
 import cn.hutool.core.util.RandomUtil;

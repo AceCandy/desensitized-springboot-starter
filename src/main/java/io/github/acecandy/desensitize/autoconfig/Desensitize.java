@@ -1,4 +1,4 @@
-package com.ke.acecandy.desensitize.autoconfig;
+package io.github.acecandy.desensitize.autoconfig;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;
@@ -8,8 +8,8 @@ import java.lang.annotation.Target;
 
 import com.fasterxml.jackson.annotation.JacksonAnnotationsInside;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
-import com.ke.acecandy.desensitize.impl.DesensitizeEnum;
-import com.ke.acecandy.desensitize.impl.DesensitizeSerializer;
+import io.github.acecandy.desensitize.impl.DesensitizeEnum;
+import io.github.acecandy.desensitize.impl.DesensitizeSerializer;
 
 /**
  * 数据脱敏注解

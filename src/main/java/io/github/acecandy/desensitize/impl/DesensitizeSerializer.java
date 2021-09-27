@@ -1,4 +1,4 @@
-package com.ke.acecandy.desensitize.impl;
+package io.github.acecandy.desensitize.impl;
 
 import java.io.IOException;
 
@@ -7,7 +7,7 @@ import com.fasterxml.jackson.databind.BeanProperty;
 import com.fasterxml.jackson.databind.JsonSerializer;
 import com.fasterxml.jackson.databind.SerializerProvider;
 import com.fasterxml.jackson.databind.ser.ContextualSerializer;
-import com.ke.acecandy.desensitize.autoconfig.Desensitize;
+import io.github.acecandy.desensitize.autoconfig.Desensitize;
 
 import cn.hutool.core.util.StrUtil;
 

@@ -1,9 +1,9 @@
-package com.ke.acecandy.desensitize.autoconfig;
+package io.github.acecandy.desensitize.autoconfig;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-import com.ke.acecandy.desensitize.impl.DesensitizeSerializer;
+import io.github.acecandy.desensitize.impl.DesensitizeSerializer;
 
 /**
  * 脱敏自动配置
