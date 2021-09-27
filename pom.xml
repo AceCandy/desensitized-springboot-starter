@@ -10,7 +10,7 @@
 
     <groupId>io.github.acecandy</groupId>
     <artifactId>desensitized-springboot-starter</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0-RELEASE</version>
     <name>desensitized-springboot-starter</name>
     <description>轻量级数据脱敏</description>
 
