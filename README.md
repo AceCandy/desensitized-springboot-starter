@@ -1,14 +1,20 @@
 # desensitized-springboot-starter
+
 数据脱敏快速方案，starter方式轻松集成springboot，使用无感
+
 ### 快速使用
-##### 一、 ~~引入starter包（未上传中央仓库可忽略）~~
+
+##### 一、引入starter包
+
 ```xml
+
 <dependency>
-    <groupId>com.ke.acecandy</groupId>
+    <groupId>io.github.acecandy</groupId>
     <artifactId>desensitized-springboot-starter</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0-RELEASE</version>
 </dependency>
 ```
+
 ##### 二、对象字段上加入脱敏注解
 
 ```java
